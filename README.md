@@ -1,3 +1,3 @@
 # Demo
 
-Discription for the exercise
+Discription for the exercises
